@@ -19,4 +19,3 @@ if question:
     ).choices[0].text
 
     st.write("ChatGPT says:", response)
-Replace "YOUR_OPENAI_API_KEY" with your Ope
