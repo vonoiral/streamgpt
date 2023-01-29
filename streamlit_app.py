@@ -2,7 +2,7 @@
 import streamlit as st
 import openai
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = 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
 
 st.title("ChatGPT Interactive Website")
 
